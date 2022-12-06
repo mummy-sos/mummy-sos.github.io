@@ -1,2 +1,2 @@
 # mummy-sos.github.io
-The website for mummy-sos
+The draft website for mummy-sos
