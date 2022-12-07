@@ -95,6 +95,7 @@ font-size: 35px;
   float: right;
   padding: 10px;
   text-align: center;
+    background-color: #eee;
 }
 .services{
   background-color: #333;
