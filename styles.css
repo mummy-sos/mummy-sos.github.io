@@ -85,6 +85,10 @@ font-size: 35px;
   font-style: italic;
   margin: 30px ;
   word-spacing: normal;
+  background-color: #521a7e;
+  border-radius: 8px;
+  color:#fff;
+  text-transform: uppercase;
 }
 .content {
   padding: 20px;
